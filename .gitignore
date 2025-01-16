@@ -1,0 +1,10 @@
+/node_modules
+/package.json
+/yarn.lock
+/coverage.txt
+/k6provision
+/k6provision.exe
+/k6
+/k6exe
+/dist
+/build

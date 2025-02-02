@@ -7,7 +7,7 @@ require (
 	github.com/evanw/esbuild v0.24.2
 	github.com/grafana/clireadme v0.1.0
 	github.com/grafana/k6build v0.5.2
-	github.com/grafana/k6deps v0.2.0
+	github.com/grafana/k6deps v0.2.1
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/spf13/cobra v1.8.1
 	github.com/stretchr/testify v1.10.0

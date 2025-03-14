@@ -1,7 +1,6 @@
 module github.com/grafana/k6provision
 
-go 1.22.2
-toolchain go1.24.1
+go 1.23.0
 
 require (
 	github.com/adrg/xdg v0.5.3

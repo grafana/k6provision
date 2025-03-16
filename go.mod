@@ -2,9 +2,11 @@ module github.com/grafana/k6provision
 
 go 1.23.0
 
+toolchain go1.24.1
+
 require (
 	github.com/adrg/xdg v0.5.3
-	github.com/evanw/esbuild v0.25.0
+	github.com/evanw/esbuild v0.25.1
 	github.com/grafana/clireadme v0.1.0
 	github.com/grafana/k6build v0.5.8
 	github.com/grafana/k6deps v0.2.4

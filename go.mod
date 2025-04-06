@@ -4,10 +4,10 @@ go 1.23.0
 
 require (
 	github.com/adrg/xdg v0.5.3
-	github.com/evanw/esbuild v0.25.0
+	github.com/evanw/esbuild v0.25.1
 	github.com/grafana/clireadme v0.1.0
 	github.com/grafana/k6build v0.5.8
-	github.com/grafana/k6deps v0.2.4
+	github.com/grafana/k6deps v0.2.5
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/spf13/cobra v1.9.1
 	github.com/stretchr/testify v1.10.0
@@ -21,8 +21,8 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/grafana/k6foundry v0.4.5 // indirect
-	github.com/grafana/k6pack v0.2.4 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
+	github.com/kr/text v0.2.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
